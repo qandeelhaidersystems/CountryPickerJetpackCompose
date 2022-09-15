@@ -1,4 +1,4 @@
-package com.example.countrynameandcodepickerjetpackcomposelib
+package com.example.countrynameandcodepickerjetpackcomposelib.component
 
 import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
